@@ -3,7 +3,7 @@
 ## Integrantes
 - Matheus Gomes Pedroza | RA 1998912
 
-## Falhas e Inconsistências (Apenas DummyJSON)
+## Falhas e Inconsistências 
 
 Encontrei dois problemas sérios de consistência na DummyJSON, principalmente no tratamento de dados e na exclusão:
 
